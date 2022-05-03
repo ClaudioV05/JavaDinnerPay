@@ -1,1 +1,1 @@
-## Project to conclude the period of the Joaquim Nabuco University of the 5th period. It was developed using the Java programming language and the MySQL database.
+## Project to conclude the period of the UniNassau University of the 5th period. It was developed using the Java programming language and the MySQL database.
